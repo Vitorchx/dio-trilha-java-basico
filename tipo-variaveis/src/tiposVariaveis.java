@@ -8,7 +8,6 @@ public class TiposVariaveis {
         int a = scanner.nextInt();
 
         System.out.println("valor é: " + a);
-
+        scanner.close();
     }
 }
-
